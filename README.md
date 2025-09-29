@@ -357,17 +357,17 @@ mysql -u root -p laravel_login_db < database/backup/laravel_login_backup.sql
 ## 🖼 Resultado del Laboratorio
 
 ### 🔐 Pantalla de Login
-![Pantalla de Login](laravel/imagenes/login-screen.png)
+![Pantalla de Login](imagenes/login-screen.png)
 
 *La interfaz de login presenta un formulario limpio y responsivo con validación de campos. Incluye opciones para "Recordar sesión" y "Olvidé mi contraseña".*
 
 ### 📝 Pantalla de Registro
-![Pantalla de Registro](laravel/imagenes/register-screen.png)
+![Pantalla de Registro](imagenes/register-screen.png)
 
 *El formulario de registro permite la creación de nuevas cuentas con validación en tiempo real de email, contraseña y confirmación de contraseña.*
 
 ### 🏠 Dashboard Principal (Home)
-![Dashboard Autenticado](laravel/imagenes/dashboard.png)
+![Dashboard Autenticado](imagenes/dashboard.png)
 
 *Una vez autenticado, el usuario accede al dashboard principal donde puede gestionar su sesión y acceder a las funcionalidades de la aplicación.*
 
