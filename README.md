@@ -367,7 +367,7 @@ mysql -u root -p laravel_login_db < database/backup/laravel_login_backup.sql
 *El formulario de registro permite la creación de nuevas cuentas con validación en tiempo real de email, contraseña y confirmación de contraseña.*
 
 ### 🏠 Dashboard Principal (Home)
-![Dashboard Autenticado](dashboard.png)
+![Dashboard Autenticado]("C:\wamp64\www\labLaravelLogin\Laravel\imagenes\dashboard.png")
 
 *Una vez autenticado, el usuario accede al dashboard principal donde puede gestionar su sesión y acceder a las funcionalidades de la aplicación.*
 
